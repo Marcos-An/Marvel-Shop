@@ -1,4 +1,4 @@
-# Lista de usuários 
+# MARVEL SHOP 
 
 `Uma aplicação SPA... uma loja de quadrinhos com a possibilidade de adicionar ao carrinho de compra.`
 
